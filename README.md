@@ -58,3 +58,4 @@ Single Execution: Runs once and exits after showing the result.
 
 **OUTPUT:**
 
+<img width="1183" height="875" alt="Image" src="https://github.com/user-attachments/assets/3edc69b4-c941-4b59-b36e-bf07a09ca150" />
